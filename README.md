@@ -1,6 +1,6 @@
 # Space-Spectators
 This is a space blog where user can create, join different groups and add new posts regarding the space in these groups
-Download and extract the zip file by name social_media_site 
+Download and extract the zip file by name Space-Spectators.zip
 1. Open the command prompt
 2. Create a virtual environment using Anaconda
 3. To use a virtual environment with Anaconda we use the following commands:
